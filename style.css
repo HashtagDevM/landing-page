@@ -1,0 +1,13 @@
+:root {
+	--light-text: #e5e7eb;
+	--dark-text: #1f2937;
+	--dominant-color: #1f2937;
+	--secondary-color: #f9faf8;
+	--accent-color: #3882f6;
+}
+
+html,
+body {
+	font-family: "Roboto", sans-serif;
+	margin: 0;
+}
