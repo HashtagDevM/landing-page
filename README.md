@@ -4,3 +4,7 @@
 - It was created to look exactly like the provided example.
 - The project spec was supplied in image form.
 - This project was created using Flexbox.
+
+## Project Screenshot
+
+![The Odin Project - Landing Page](/images/project-spec.png)
