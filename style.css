@@ -130,3 +130,25 @@ h2 {
 	text-align: center;
 	margin: 16px 0 0 0;
 }
+
+/* Quote Section */
+
+.quote {
+	background-color: var(--light-text);
+	padding: 120px 250px 100px 350px;
+}
+
+.quote-text {
+	font-style: italic;
+	font-size: 36px;
+	font-weight: 300;
+	margin: 0 0 10px 0;
+}
+
+.author {
+	font-size: 24px;
+	font-weight: 700;
+	margin: 0 40px 0 0;
+	display: flex;
+	justify-content: flex-end;
+}
