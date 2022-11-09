@@ -152,3 +152,41 @@ h2 {
 	display: flex;
 	justify-content: flex-end;
 }
+
+/* CTA Section */
+.cta-container {
+	background-color: var(--secondary-color);
+	padding: 100px 200px;
+}
+
+.cta {
+	background-color: var(--accent-color);
+	padding: 50px 120px;
+	border-radius: 8px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.cta-header > h3 {
+	color: var(--secondary-color);
+	font-size: 24px;
+	margin: 0 0 10px 0;
+}
+
+.cta-description > p {
+	color: var(--light-text);
+	font-size: 18px;
+	margin: 0;
+}
+
+.sign-up {
+	background-color: var(--accent-color);
+	color: var(--secondary-color);
+	font-size: 18px;
+	font-weight: 700;
+	border: 2px solid var(--secondary-color);
+	border-radius: 8px;
+	padding: 8px 35px;
+	align-self: center;
+	cursor: pointer;
+}
